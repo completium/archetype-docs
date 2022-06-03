@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarchetype_docs=self.webpackChunkarchetype_docs||[]).push([[3059],{8666:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/events","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
