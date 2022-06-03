@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarchetype_docs=self.webpackChunkarchetype_docs||[]).push([[2612],{1060:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"events","count":1,"permalink":"/blog/tags/events"}')}}]);
