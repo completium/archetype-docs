@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Archetype Documentation Blog</title>
-        <link>https://docs.archetype-lang.org/archetype-docs/blog</link>
+        <link>https://completium.github.io/archetype-docs/blog</link>
         <description>Archetype Documentation Blog</description>
         <lastBuildDate>Sat, 04 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Shortcut evaluation]]></title>
-            <link>https://docs.archetype-lang.org/archetype-docs/blog/shortcut-evaluation</link>
+            <link>https://completium.github.io/archetype-docs/blog/shortcut-evaluation</link>
             <guid>shortcut-evaluation</guid>
             <pubDate>Sat, 04 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[We present a change in version 1.2.17 of the evaluation process of boolean operators and and or in test expression of the if instruction and expression.]]></description>
@@ -22,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Accessing assets]]></title>
-            <link>https://docs.archetype-lang.org/archetype-docs/blog/asset-access</link>
+            <link>https://completium.github.io/archetype-docs/blog/asset-access</link>
             <guid>asset-access</guid>
             <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[We present an improvement in the way assets data are accessed since version 1.2.16 of Archetype.]]></description>
@@ -32,7 +32,7 @@
         </item>
         <item>
             <title><![CDATA[Iterable big map]]></title>
-            <link>https://docs.archetype-lang.org/archetype-docs/blog/iterable-big-map</link>
+            <link>https://completium.github.io/archetype-docs/blog/iterable-big-map</link>
             <guid>iterable-big-map</guid>
             <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[We present a new type of map called iterablebigmap, which has the scalability property of a bigmap, and which can be iterated like a basic map.]]></description>
@@ -42,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[Events]]></title>
-            <link>https://docs.archetype-lang.org/archetype-docs/blog/events</link>
+            <link>https://completium.github.io/archetype-docs/blog/events</link>
             <guid>events</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[We present the new instruction emit to emit an event, in a similar an event is emitted in languages like solidity.]]></description>
@@ -52,7 +52,7 @@
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://docs.archetype-lang.org/archetype-docs/blog/welcome</link>
+            <link>https://completium.github.io/archetype-docs/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[We are delighted to present this new documentation for the Archetype language.]]></description>
