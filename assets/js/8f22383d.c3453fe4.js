@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarchetype_docs=self.webpackChunkarchetype_docs||[]).push([[5543],{8856:function(e){e.exports=JSON.parse('{"label":"if","permalink":"/archetype-docs/blog/tags/if","allTagsPath":"/archetype-docs/blog/tags","count":1}')}}]);
