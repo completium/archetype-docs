@@ -4,8 +4,8 @@
   <ShortName>Archetype Documentation</ShortName>
   <Description>Search Archetype Documentation</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://completium.github.io/archetype-docs/img/favicon@2x.png</Image>
-  <Url type="text/html" method="get" template="https://completium.github.io/archetype-docs/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://completium.github.io/archetype-docs/opensearch.xml" />
-  <moz:SearchForm>https://completium.github.io/archetype-docs/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://completium.github.io/img/favicon@2x.png</Image>
+  <Url type="text/html" method="get" template="https://completium.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://completium.github.io/opensearch.xml" />
+  <moz:SearchForm>https://completium.github.io/</moz:SearchForm>
 </OpenSearchDescription>

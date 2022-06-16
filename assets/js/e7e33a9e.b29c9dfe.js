@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarchetype_docs=self.webpackChunkarchetype_docs||[]).push([[6708],{3578:function(e){e.exports=JSON.parse('{"permalink":"/archetype-docs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

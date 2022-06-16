@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarchetype_docs=self.webpackChunkarchetype_docs||[]).push([[6457],{6758:function(s){s.exports=JSON.parse('{"label":"docusaurus","permalink":"/archetype-docs/blog/tags/docusaurus","allTagsPath":"/archetype-docs/blog/tags","count":1}')}}]);
