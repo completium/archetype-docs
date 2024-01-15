@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Function
 
-Entrypoints' effect may call functions. A function returns a value, may fail, but cannot change the contract storage.
+Entrypoints' effect may call functions. A function returns a value, may fail, but cannot change the contract storage. //@audit the function cannot change contract storage
 
 A function is declared with the `function` keyword followed by a unique [identifier](/docs/reference/declarations/identifier).
 ## `return`
@@ -22,7 +22,7 @@ function exp(x : rational, steps : nat) : rational {
 }
 ```
 
-When the function does not change the storage, it is compiled as a [lambda](/docs/reference/types#lambda) expression on the stack. When the function *does* change the storage, it is inlined.
+When the function does not change the storage, it is compiled as a [lambda](/docs/reference/types#lambda) expression on the stack. When the function *does* change the storage, it is inlined. @audit the function now is able to change the storage, violating the invariant at the start. Are we discussing a different storage? Is there a storage that is not the contract storage? 
 
 ## Function as instruction
 
